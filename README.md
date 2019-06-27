@@ -1,2 +1,1 @@
-# Jmeter-Image
-Jmeter Docker Image for Performance framework
+This repository hosts code for the performance load tester service.
